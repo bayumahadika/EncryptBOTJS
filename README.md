@@ -8,7 +8,7 @@
 
 - Jalankan perintah berikut untuk menginstal tool ini secara global:
   ```bash
-  npm install -g @bayumahadik/encryptbotjs
+  npm install -g @bayumahadika/encryptbotjs
   ```
 
 ### 2. Berpindah Ke Folder Yang Ingin Dienkripsi
