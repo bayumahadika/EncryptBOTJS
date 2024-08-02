@@ -1,22 +1,21 @@
 # ENCRYPTBOTJS
-
-> Tool untuk mengenkripsi semua file pada WhatsApp bot berbasis Node.js.
+Sebuah alat sederhana untuk mengenkripsi semua file berbasis javascript.
 
 ## GET STARTED
 
 ### 1. Instalasi
 
-- Jalankan perintah berikut untuk menginstal tool ini secara global:
+- Jalankan perintah berikut untuk menginstal module ini secara global:
   ```bash
   npm install -g @bayumahadika/encryptbotjs
   ```
 
 ### 2. Berpindah Ke Folder Yang Ingin Dienkripsi
 
-- Masuk kedalam directory yang berisi file yang ingin dienkripsi:
+- Masuk kedalam folder yang berisi file yang ingin kita enkripsi:
 
   ```bash
-  cd /path/bot/nodejs
+  cd /folder/bot/nodejs
   ```
 
 ### 3. Jalankan Perintah Dan Tunggu Hingga Proses Selesai
